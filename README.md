@@ -104,10 +104,8 @@ I never ended up using this in a real competition as it was against the rules.
 ## Ideas for Extensions
 
 - Add a GUI to visualize pathfinding
-- Make gates have colors, weights, or timed opening rules
-- Turn into a turn-based game or maze challenge
-- Add battery limits or randomized obstacles
-- Train a model to learn the best gate orders
+- Add battery limits or other real life limits
+- Add 45 degree turns
 
 ---
 
